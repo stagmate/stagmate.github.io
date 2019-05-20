@@ -107,7 +107,7 @@ http://www.templatemo.com/tm-496-pipeline
                         <div class="tm-box-pad tm-bordered-box">
                             <h2 class="tm-section-title">Project-1:Digilib (Digital Library Android Application)</h2>
                             <p> A reference android application for students of Abdul Kalam technical university specially covering the entire syllabus for first year B.TECH courses of all branches. Contains e-notes,e-books,previous year papers for B.TECH (*all branches).Technology Used-Android Studio,Google Cloud. Languages used- JAVA,CSS,JavaScript.Available on Google playstore</p>
-                                <a href="https://play.google.com/store/apps/details?id=com.degilib.varanasi.m.t.i.a.degilib&hl=en_US" class="tm-button tm-button-normal">Download from playstore</a>
+                                <a href="#" class="tm-button tm-button-normal">Download from playstore</a>
                                 <a href="#" class="tm-button tm-button-normal">Download from GitHub(src)</a>
 
                         </div>
